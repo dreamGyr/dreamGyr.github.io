@@ -44,14 +44,7 @@
   </url>
   
   <url>
-    <loc>http://blog.guoyaru.com/archives/index.html</loc>
-    
-    <lastmod>2017-11-15T09:19:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.guoyaru.com/tags/index.html</loc>
+    <loc>http://blog.guoyaru.com/categories/index.html</loc>
     
     <lastmod>2017-11-15T09:19:42.000Z</lastmod>
     
@@ -65,7 +58,14 @@
   </url>
   
   <url>
-    <loc>http://blog.guoyaru.com/categories/index.html</loc>
+    <loc>http://blog.guoyaru.com/archives/index.html</loc>
+    
+    <lastmod>2017-11-15T09:19:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.guoyaru.com/tags/index.html</loc>
     
     <lastmod>2017-11-15T09:19:42.000Z</lastmod>
     
