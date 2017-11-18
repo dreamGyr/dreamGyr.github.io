@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.guoyaru.com/about/index.html</loc>
+    
+    <lastmod>2017-11-18T13:07:24.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.guoyaru.com/2017/11/18/markDown%E6%A0%BC%E5%BC%8F/</loc>
     
     <lastmod>2017-11-18T08:31:28.000Z</lastmod>
@@ -23,27 +30,6 @@
   </url>
   
   <url>
-    <loc>http://blog.guoyaru.com/2017/11/15/hello-world/</loc>
-    
-    <lastmod>2017-11-15T10:41:04.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.guoyaru.com/2017/11/15/node-fs/</loc>
-    
-    <lastmod>2017-11-15T10:40:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.guoyaru.com/about/index.html</loc>
-    
-    <lastmod>2017-11-15T09:19:42.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.guoyaru.com/about/index1.html</loc>
     
     <lastmod>2017-11-15T09:19:42.000Z</lastmod>
@@ -51,14 +37,14 @@
   </url>
   
   <url>
-    <loc>http://blog.guoyaru.com/categories/index.html</loc>
+    <loc>http://blog.guoyaru.com/archives/index.html</loc>
     
     <lastmod>2017-11-15T09:19:42.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.guoyaru.com/archives/index.html</loc>
+    <loc>http://blog.guoyaru.com/categories/index.html</loc>
     
     <lastmod>2017-11-15T09:19:42.000Z</lastmod>
     

@@ -3,6 +3,7 @@
 
 
     
+    
   <url>
     <loc>http://blog.guoyaru.com/2017/11/18/markDown%E6%A0%BC%E5%BC%8F/</loc>
     <lastmod>2017-11-18T08:31:28.000Z</lastmod>
@@ -72,42 +73,6 @@
     </data>
     </url>
 
-    
-  <url>
-    <loc>http://blog.guoyaru.com/2017/11/15/hello-world/</loc>
-    <lastmod>2017-11-15T10:41:04.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-11-15T10:41:04.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="hexo" url="http://blog.guoyaru.com//categories/hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://blog.guoyaru.com/2017/11/15/node-fs/</loc>
-    <lastmod>2017-11-15T10:40:58.000Z</lastmod>
-    <data>
-        <display>
-        <title>node-fs</title>
-        <pubTime>2017-11-15T10:40:58.000Z</pubTime>
-        
-        <tag>node</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
     
     
     
