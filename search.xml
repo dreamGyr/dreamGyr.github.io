@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[MAC链接Windows Server 2012 服务器]]></title>
+    <url>%2F2017%2F11%2F29%2FMAC%2F</url>
+    <content type="text"><![CDATA[MAC链接Windows Server 2012 服务器@(远程桌面连接无法验证您希望连接的计算机的身份) mac和windows连接服务器有所不同概述： 1 ：下载Mac 版远程桌面连接； 2 ：输入ip地址-&gt;点击连接； 3 ：报错提示-&gt;远程桌面连接无法验证您希望连接的计算机的身份windows连接服务器概述： 4 ：windows系统电脑登录-&gt;同上打开远程桌面连接-&gt;输入ip 5 ：连接成功-&gt;输入用户名和密码 6 ：登录成功-&gt;点击开始-&gt;选择控制面板-&gt;系统和安全-&gt;允许远程访问-&gt;属性设置-&gt;选择‘允许远程连接此计算机 ‘（注：只设置这个就ok-&gt;确定 以上都设置OK后再次用mac连接服务器概述： 7 ：此刻输入ip再次连接(不会报错)-&gt;输入账号密码就可以登录进来了]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
+      <tags>
+        <tag>连接服务器</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[markDown 格式代码]]></title>
     <url>%2F2017%2F11%2F18%2FmarkDown%E6%A0%BC%E5%BC%8F%2F</url>
     <content type="text"><![CDATA[一级标题二级标题三级标题四级标题五级标题六级标题 这是备注说明 这是第一条 这是第二条 这是第三条 这是无序列表 这是无序列表 这是无序列表 123456789101112131415161718new Vue(&#123; // state 模型(model) data () &#123; return &#123; count: 0 &#125; &#125;, // view 视图(view) template: ` &lt;div&gt;&#123;&#123; count &#125;&#125;&lt;/div&gt; `, // actions 控制器(controller) methods: &#123; increment () &#123; this.count++ &#125; &#125;&#125;) 这是斜体，这是加粗]]></content>
